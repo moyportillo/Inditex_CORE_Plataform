@@ -55,6 +55,7 @@ public class GeneralResponse {
             this.price = price;
             return this;
         }
+
         public GeneralResponseBuilder stateResponseProcess(String code, String state, String message, String messageTechnical) {
             StateResponseProcess stateResponse = new StateResponseProcess();
             stateResponse.setCode(code);
