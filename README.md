@@ -39,7 +39,7 @@ La base de datos utilizada es H2 en memoria, inicializada con datos de ejemplo p
 ## Documentación API
 
 El proyecto incluye documentación de la API utilizando **Swagger**. Para acceder a la documentación generada por Swagger, inicia la aplicación y navega a:
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui/index.html
 
 ## Pruebas
 
